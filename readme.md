@@ -1,7 +1,6 @@
 # Real Time Facial Expression Classification
-<p align="center">
- ![Video demonstration of CNN facial tracking and emotion classification.](video-demo.gif)
-</p>
+
+![Video demonstration of CNN facial tracking and emotion classification.](video-demo.gif)
 
 [Face perception](https://en.wikipedia.org/wiki/Face_perception) is one of the most important daily cognitive tasks that humans perform.  This is such an important function that facial expertise is even represented within the brain's [modular layout](https://en.wikipedia.org/wiki/Fusiform_face_area).
 
