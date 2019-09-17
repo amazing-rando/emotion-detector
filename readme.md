@@ -1,4 +1,4 @@
-# Emotion Detector
+# Real Time Facial Expression Classification
 
 ![Video demonstration of CNN facial tracking and emotion classification.](video-demo.gif)
 
