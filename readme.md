@@ -1,6 +1,7 @@
 # Real Time Facial Expression Classification
-
-![Video demonstration of CNN facial tracking and emotion classification.](video-demo.gif)
+<p align="center">
+ ![Video demonstration of CNN facial tracking and emotion classification.](video-demo.gif)
+</p>
 
 [Face perception](https://en.wikipedia.org/wiki/Face_perception) is one of the most important daily cognitive tasks that humans perform.  This is such an important function that facial expertise is even represented within the brain's [modular layout](https://en.wikipedia.org/wiki/Fusiform_face_area).
 
@@ -10,7 +11,9 @@ Advances in [computer vision](https://en.wikipedia.org/wiki/Computer_vision) alg
 
 The provided model was trained on a set of 13312 48x48 grayscale face images evenly split across four emotion categories: angry, sad, happy, and neutral.  These images were scraped from various stock image websites and sourced from psychophysics stimuli used in my [academic research](http://insalubrio.us/science.php).
 
+<p align="center">
 ![Example of emotion classification on multiple faces.](emotion_detector.png)
+</p>
 
 Face tracking in the live video demonstration is accomplished using [dlib's](http://dlib.net/) CNN face classifier as it is extremely fast and far more robust than using [Haar cascades](https://en.wikipedia.org/wiki/Haar-like_feature).  As demonstrated above, it handles multiple faces quite effectively!
 
